@@ -45,5 +45,5 @@
 
 ## Summary
 
-#### The EasyEnsembleClassifier model outperformed the others.
+#### The EasyEnsembleClassifier model outperformed the others, however, I do not recommend using any of the models alone in evaluating credit risk. The machine learning models may be helpful in narrowing the pool of candidates that require further manual review. 
 
